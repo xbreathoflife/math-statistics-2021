@@ -54,5 +54,5 @@ def draw_exp(max_k, n=300, experiment_num=1000):
 
 
 if __name__ == "__main__":
-    #draw_uniform(200)
+    draw_uniform(200)
     draw_exp(100)
